@@ -177,11 +177,3 @@ Based strictly on mathematical optimization rules (Boundary % > 50%, Econ < 7.5,
 
 ---
 
-## 🎯 8. Top Interview Questions & Technical Defense
-
-1. **Why use CTEs instead of subqueries in your analysis?**
-   * *Answer:* CTEs (`WITH` clauses) improve readability, make queries self-documenting, and enable recursive calculations and modular referencing across complex multi-step aggregations like player benchmarking.
-2. **How did you prevent division-by-zero errors in SQL and DAX?**
-   * *Answer:* In SQL, I used `NULLIF(total_balls, 0)` so that players with 0 balls bowled/faced return `NULL` instead of a zero-division error. In Power BI DAX, I utilized `DIVIDE(Numerator, Denominator, 0)` which natively suppresses divide-by-zero exceptions.
-3. **How does Power BI handle Star Schemas versus flat tables?**
-   * *Answer:* A star schema minimizes data redundancy and leverages Power BI's **VertiPaq** columnar compression engine. High cardinality text attributes reside in small dimension tables, keeping fact tables dense with integer keys and numbers for lightning-fast memory scans.
