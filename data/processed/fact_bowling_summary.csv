@@ -1,0 +1,34 @@
+match_id,player_id,player_name,team,overs,balls_bowled,maiden,runs_conceded,wickets,economy_rate,dot_balls,fours_conceded,sixes_conceded,wides,no_balls,dot_ball_pct
+T20I_06,P10,Sam Curran,England,3.4,22,0,10,5,2.73,12,1,0,1,0,54.55
+T20I_11,P10,Sam Curran,England,3.0,18,0,31,2,10.33,7,4,1,0,0,38.89
+T20I_17,P10,Sam Curran,England,4.0,24,0,26,2,6.5,11,1,1,1,0,45.83
+T20I_21,P10,Sam Curran,England,4.0,24,0,27,1,6.75,9,2,0,0,0,37.5
+T20I_26,P10,Sam Curran,England,4.0,24,0,42,0,10.5,7,4,2,2,0,29.17
+T20I_27,P10,Sam Curran,England,4.0,24,0,12,3,3.0,15,0,0,0,0,62.5
+T20I_01,P23,Wanindu Hasaranga,Sri Lanka,4.0,24,0,27,1,6.75,9,1,1,0,0,37.5
+T20I_10,P23,Wanindu Hasaranga,Sri Lanka,3.0,18,0,53,0,17.67,3,3,5,1,0,16.67
+T20I_15,P23,Wanindu Hasaranga,Sri Lanka,4.0,24,0,22,2,5.5,12,2,0,0,0,50.0
+T20I_21,P23,Wanindu Hasaranga,Sri Lanka,4.0,24,0,23,2,5.75,11,1,1,0,0,45.83
+T20I_07,P05,Arshdeep Singh,India,4.0,24,0,32,3,8.0,12,3,1,0,0,50.0
+T20I_13,P05,Arshdeep Singh,India,4.0,24,0,37,2,9.25,10,3,2,1,0,41.67
+T20I_16,P05,Arshdeep Singh,India,4.0,24,0,25,2,6.25,13,2,1,1,0,54.17
+T20I_18,P05,Arshdeep Singh,India,4.0,24,0,38,2,9.5,8,4,1,1,0,33.33
+T20I_24,P05,Arshdeep Singh,India,3.0,18,0,9,1,3.0,12,1,0,0,0,66.67
+T20I_26,P05,Arshdeep Singh,India,2.0,12,0,15,0,7.5,4,2,0,0,0,33.33
+T20I_07,P16,Shaheen Shah Afridi,Pakistan,4.0,24,0,34,0,8.5,11,4,1,0,0,45.83
+T20I_14,P16,Shaheen Shah Afridi,Pakistan,4.0,24,0,29,0,7.25,10,2,1,1,0,41.67
+T20I_19,P16,Shaheen Shah Afridi,Pakistan,3.0,18,0,14,3,4.67,11,1,0,0,0,61.11
+T20I_23,P16,Shaheen Shah Afridi,Pakistan,4.0,24,0,22,4,5.5,14,2,0,1,0,58.33
+T20I_25,P16,Shaheen Shah Afridi,Pakistan,4.0,24,0,24,2,6.0,12,2,0,0,0,50.0
+T20I_27,P16,Shaheen Shah Afridi,Pakistan,2.1,13,0,13,1,6.0,7,1,0,0,0,53.85
+T20I_07,P15,Shadab Khan,Pakistan,4.0,24,0,21,0,5.25,12,1,0,0,0,50.0
+T20I_14,P15,Shadab Khan,Pakistan,4.0,24,0,23,3,5.75,13,1,1,0,0,54.17
+T20I_19,P15,Shadab Khan,Pakistan,2.0,12,0,16,2,8.0,6,1,1,0,0,50.0
+T20I_23,P15,Shadab Khan,Pakistan,4.0,24,0,30,2,7.5,9,2,1,1,0,37.5
+T20I_27,P15,Shadab Khan,Pakistan,4.0,24,0,20,1,5.0,11,1,0,0,0,45.83
+T20I_12,P24,Anrich Nortje,South Africa,3.3,21,0,10,4,2.86,15,1,0,0,0,71.43
+T20I_16,P24,Anrich Nortje,South Africa,4.0,24,0,23,1,5.75,13,2,0,1,0,54.17
+T20I_19,P24,Anrich Nortje,South Africa,4.0,24,0,41,4,10.25,11,3,2,2,0,45.83
+T20I_22,P24,Anrich Nortje,South Africa,4.0,24,0,10,1,2.5,16,0,0,0,0,66.67
+T20I_04,P22,Sikandar Raza,Zimbabwe,3.0,18,0,22,1,7.33,8,2,0,1,0,44.44
+T20I_14,P22,Sikandar Raza,Zimbabwe,4.0,24,0,25,3,6.25,11,1,1,0,0,45.83

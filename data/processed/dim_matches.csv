@@ -1,0 +1,28 @@
+match_id,team1,team2,winner,margin,ground,match_date,stage
+T20I_01,Namibia,Sri Lanka,Namibia,55 runs,Geelong,2022-10-16,Group Stage
+T20I_02,Netherlands,UAE,Netherlands,3 wickets,Geelong,2022-10-16,Group Stage
+T20I_03,Scotland,West Indies,Scotland,42 runs,Hobart,2022-10-17,Group Stage
+T20I_04,Zimbabwe,Ireland,Zimbabwe,31 runs,Hobart,2022-10-17,Group Stage
+T20I_05,Australia,New Zealand,New Zealand,89 runs,Sydney,2022-10-22,Super 12
+T20I_06,England,Afghanistan,England,5 wickets,Perth,2022-10-22,Super 12
+T20I_07,India,Pakistan,India,4 wickets,Melbourne,2022-10-23,Super 12
+T20I_08,Bangladesh,Netherlands,Bangladesh,9 runs,Hobart,2022-10-24,Super 12
+T20I_09,South Africa,Zimbabwe,No Result,Rain,Hobart,2022-10-24,Super 12
+T20I_10,Australia,Sri Lanka,Australia,7 wickets,Perth,2022-10-25,Super 12
+T20I_11,England,Ireland,Ireland,5 runs (DLS),Melbourne,2022-10-26,Super 12
+T20I_12,South Africa,Bangladesh,South Africa,104 runs,Sydney,2022-10-27,Super 12
+T20I_13,India,Netherlands,India,56 runs,Sydney,2022-10-27,Super 12
+T20I_14,Pakistan,Zimbabwe,Zimbabwe,1 run,Perth,2022-10-27,Super 12
+T20I_15,New Zealand,Sri Lanka,New Zealand,65 runs,Sydney,2022-10-29,Super 12
+T20I_16,India,South Africa,South Africa,5 wickets,Perth,2022-10-30,Super 12
+T20I_17,England,New Zealand,England,20 runs,Brisbane,2022-11-01,Super 12
+T20I_18,India,Bangladesh,India,5 runs (DLS),Adelaide,2022-11-02,Super 12
+T20I_19,Pakistan,South Africa,Pakistan,33 runs (DLS),Sydney,2022-11-03,Super 12
+T20I_20,Australia,Afghanistan,Australia,4 runs,Adelaide,2022-11-04,Super 12
+T20I_21,England,Sri Lanka,England,4 wickets,Sydney,2022-11-05,Super 12
+T20I_22,South Africa,Netherlands,Netherlands,13 runs,Adelaide,2022-11-06,Super 12
+T20I_23,Pakistan,Bangladesh,Pakistan,5 wickets,Adelaide,2022-11-06,Super 12
+T20I_24,India,Zimbabwe,India,71 runs,Melbourne,2022-11-06,Super 12
+T20I_25,New Zealand,Pakistan,Pakistan,7 wickets,Sydney,2022-11-09,Semi Final
+T20I_26,India,England,England,10 wickets,Adelaide,2022-11-10,Semi Final
+T20I_27,Pakistan,England,England,5 wickets,Melbourne,2022-11-13,Final

@@ -1,0 +1,47 @@
+match_id,match,teamInnings,batsmanName,dismissal,runs,balls,4s,6s,SR
+T20I_07,India Vs Pakistan,India,Virat Kohli,not out,82,53,6,4,154.72
+T20I_13,India Vs Netherlands,India,Virat Kohli,not out,62,44,3,2,140.91
+T20I_16,India Vs South Africa,India,Virat Kohli,c Rabada b Ngidi,12,11,2,0,109.09
+T20I_18,India Vs Bangladesh,India,Virat Kohli,not out,64,44,8,1,145.45
+T20I_24,India Vs Zimbabwe,India,Virat Kohli,c Burl b Williams,26,25,2,0,104.00
+T20I_26,India Vs England,India,Virat Kohli,c Rashid b Jordan,50,40,4,1,125.00
+T20I_07,India Vs Pakistan,India,Suryakumar Yadav,c Rizwan b Rauf,15,10,2,0,150.00
+T20I_13,India Vs Netherlands,India,Suryakumar Yadav,not out,51,25,7,1,204.00
+T20I_16,India Vs South Africa,India,Suryakumar Yadav,c Maharaj b Parnell,68,40,6,3,170.00
+T20I_18,India Vs Bangladesh,India,Suryakumar Yadav,b Shakib,30,16,4,0,187.50
+T20I_24,India Vs Zimbabwe,India,Suryakumar Yadav,not out,61,25,6,4,244.00
+T20I_26,India Vs England,India,Suryakumar Yadav,c Salt b Rashid,14,10,1,1,140.00
+T20I_07,India Vs Pakistan,India,Hardik Pandya,c Babar b Nawaz,40,37,1,2,108.11
+T20I_26,India Vs England,India,Hardik Pandya,hit wicket b Jordan,63,33,4,5,190.91
+T20I_06,England Vs Afghanistan,England,Jos Buttler,c Mujeeb b Fazalhaq,18,18,2,0,100.00
+T20I_11,England Vs Ireland,England,Jos Buttler,c Tucker b Fionn Hand,0,2,0,0,0.00
+T20I_17,England Vs New Zealand,England,Jos Buttler,run out (Williamson),73,47,7,2,155.32
+T20I_21,England Vs Sri Lanka,England,Jos Buttler,c Karunaratne b Hasaranga,28,23,2,1,121.74
+T20I_26,India Vs England,England,Jos Buttler,not out,80,49,9,3,163.27
+T20I_27,Pakistan Vs England,England,Jos Buttler,c Rizwan b Haris Rauf,26,17,3,1,152.94
+T20I_06,England Vs Afghanistan,England,Alex Hales,c Fazalhaq b Stokes,19,20,1,0,95.00
+T20I_17,England Vs New Zealand,England,Alex Hales,c Mitchell b Santner,52,40,7,1,130.00
+T20I_21,England Vs Sri Lanka,England,Alex Hales,c & b Hasaranga,47,30,7,1,156.67
+T20I_26,India Vs England,England,Alex Hales,not out,86,47,4,7,182.98
+T20I_27,Pakistan Vs England,England,Alex Hales,b Shaheen Afridi,1,2,0,0,50.00
+T20I_21,England Vs Sri Lanka,England,Ben Stokes,not out,42,36,2,0,116.67
+T20I_27,Pakistan Vs England,England,Ben Stokes,not out,52,49,5,1,106.12
+T20I_07,India Vs Pakistan,Pakistan,Babar Azam,lbw b Arshdeep,0,1,0,0,0.00
+T20I_25,New Zealand Vs Pakistan,Pakistan,Babar Azam,c Mitchell b Boult,53,42,7,0,126.19
+T20I_27,Pakistan Vs England,Pakistan,Babar Azam,c & b Rashid,32,28,2,0,114.29
+T20I_07,India Vs Pakistan,Pakistan,Mohammad Rizwan,c Bhuvneshwar b Arshdeep,4,12,1,0,33.33
+T20I_25,New Zealand Vs Pakistan,Pakistan,Mohammad Rizwan,c Phillips b Boult,57,43,5,0,132.56
+T20I_07,India Vs Pakistan,Pakistan,Shan Masood,not out,52,42,5,0,123.81
+T20I_19,Pakistan Vs South Africa,Pakistan,Shadab Khan,c Stubbs b Nortje,52,22,3,4,236.36
+T20I_27,Pakistan Vs England,Pakistan,Shan Masood,c Livingstone b Curran,38,28,2,1,135.71
+T20I_05,Australia Vs New Zealand,New Zealand,Glenn Phillips,c & b Hazlewood,12,10,2,0,120.00
+T20I_15,New Zealand Vs Sri Lanka,New Zealand,Glenn Phillips,c Shanaka b Kumara,104,64,10,4,162.50
+T20I_17,England Vs New Zealand,New Zealand,Glenn Phillips,c Substitue b Curran,62,36,4,3,172.22
+T20I_10,Australia Vs Sri Lanka,Australia,Marcus Stoinis,not out,59,18,4,6,327.78
+T20I_20,Australia Vs Afghanistan,Australia,Glenn Maxwell,not out,54,32,6,2,168.75
+T20I_12,South Africa Vs Bangladesh,South Africa,Rilee Rossouw,c Litton b Shakib,109,56,7,8,194.64
+T20I_12,South Africa Vs Bangladesh,South Africa,Quinton de Kock,c Soumya b Afif,63,38,7,3,165.79
+T20I_04,Zimbabwe Vs Ireland,Zimbabwe,Sikandar Raza,b Little,82,48,5,5,170.83
+T20I_14,Pakistan Vs Zimbabwe,Zimbabwe,Sikandar Raza,c Babar b Wasim,9,16,1,0,56.25
+T20I_02,Netherlands Vs UAE,Netherlands,Max O'Dowd,b Junaid Siddique,23,18,3,1,127.78
+T20I_22,South Africa Vs Netherlands,Netherlands,Max O'Dowd,c Maharaj b Shamsi,29,31,1,1,93.55

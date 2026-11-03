@@ -1,0 +1,47 @@
+match_id,player_id,player_name,team,runs,balls,fours,sixes,strike_rate,boundary_runs,boundary_pct,is_out,dismissal
+T20I_07,P01,Virat Kohli,India,82,53,6,4,154.72,48,58.54,0,not out
+T20I_13,P01,Virat Kohli,India,62,44,3,2,140.91,24,38.71,0,not out
+T20I_16,P01,Virat Kohli,India,12,11,2,0,109.09,8,66.67,1,c Rabada b Ngidi
+T20I_18,P01,Virat Kohli,India,64,44,8,1,145.45,38,59.38,0,not out
+T20I_24,P01,Virat Kohli,India,26,25,2,0,104.0,8,30.77,1,c Burl b Williams
+T20I_26,P01,Virat Kohli,India,50,40,4,1,125.0,22,44.0,1,c Rashid b Jordan
+T20I_07,P02,Suryakumar Yadav,India,15,10,2,0,150.0,8,53.33,1,c Rizwan b Rauf
+T20I_13,P02,Suryakumar Yadav,India,51,25,7,1,204.0,34,66.67,0,not out
+T20I_16,P02,Suryakumar Yadav,India,68,40,6,3,170.0,42,61.76,1,c Maharaj b Parnell
+T20I_18,P02,Suryakumar Yadav,India,30,16,4,0,187.5,16,53.33,1,b Shakib
+T20I_24,P02,Suryakumar Yadav,India,61,25,6,4,244.0,48,78.69,0,not out
+T20I_26,P02,Suryakumar Yadav,India,14,10,1,1,140.0,10,71.43,1,c Salt b Rashid
+T20I_07,P04,Hardik Pandya,India,40,37,1,2,108.11,16,40.0,1,c Babar b Nawaz
+T20I_26,P04,Hardik Pandya,India,63,33,4,5,190.91,46,73.02,1,hit wicket b Jordan
+T20I_06,P07,Jos Buttler,England,18,18,2,0,100.0,8,44.44,1,c Mujeeb b Fazalhaq
+T20I_11,P07,Jos Buttler,England,0,2,0,0,0.0,0,0.0,1,c Tucker b Fionn Hand
+T20I_17,P07,Jos Buttler,England,73,47,7,2,155.32,40,54.79,1,run out (Williamson)
+T20I_21,P07,Jos Buttler,England,28,23,2,1,121.74,14,50.0,1,c Karunaratne b Hasaranga
+T20I_26,P07,Jos Buttler,England,80,49,9,3,163.27,54,67.5,0,not out
+T20I_27,P07,Jos Buttler,England,26,17,3,1,152.94,18,69.23,1,c Rizwan b Haris Rauf
+T20I_06,P08,Alex Hales,England,19,20,1,0,95.0,4,21.05,1,c Fazalhaq b Stokes
+T20I_17,P08,Alex Hales,England,52,40,7,1,130.0,34,65.38,1,c Mitchell b Santner
+T20I_21,P08,Alex Hales,England,47,30,7,1,156.67,34,72.34,1,c & b Hasaranga
+T20I_26,P08,Alex Hales,England,86,47,4,7,182.98,58,67.44,0,not out
+T20I_27,P08,Alex Hales,England,1,2,0,0,50.0,0,0.0,1,b Shaheen Afridi
+T20I_21,P09,Ben Stokes,England,42,36,2,0,116.67,8,19.05,0,not out
+T20I_27,P09,Ben Stokes,England,52,49,5,1,106.12,26,50.0,0,not out
+T20I_07,P12,Babar Azam,Pakistan,0,1,0,0,0.0,0,0.0,1,lbw b Arshdeep
+T20I_25,P12,Babar Azam,Pakistan,53,42,7,0,126.19,28,52.83,1,c Mitchell b Boult
+T20I_27,P12,Babar Azam,Pakistan,32,28,2,0,114.29,8,25.0,1,c & b Rashid
+T20I_07,P13,Mohammad Rizwan,Pakistan,4,12,1,0,33.33,4,100.0,1,c Bhuvneshwar b Arshdeep
+T20I_25,P13,Mohammad Rizwan,Pakistan,57,43,5,0,132.56,20,35.09,1,c Phillips b Boult
+T20I_07,P14,Shan Masood,Pakistan,52,42,5,0,123.81,20,38.46,0,not out
+T20I_19,P15,Shadab Khan,Pakistan,52,22,3,4,236.36,36,69.23,1,c Stubbs b Nortje
+T20I_27,P14,Shan Masood,Pakistan,38,28,2,1,135.71,14,36.84,1,c Livingstone b Curran
+T20I_05,P18,Glenn Phillips,New Zealand,12,10,2,0,120.0,8,66.67,1,c & b Hazlewood
+T20I_15,P18,Glenn Phillips,New Zealand,104,64,10,4,162.5,64,61.54,1,c Shanaka b Kumara
+T20I_17,P18,Glenn Phillips,New Zealand,62,36,4,3,172.22,34,54.84,1,c Substitue b Curran
+T20I_10,P27,Marcus Stoinis,Australia,59,18,4,6,327.78,52,88.14,0,not out
+T20I_20,P28,Glenn Maxwell,Australia,54,32,6,2,168.75,36,66.67,0,not out
+T20I_12,P26,Rilee Rossouw,South Africa,109,56,7,8,194.64,76,69.72,1,c Litton b Shakib
+T20I_12,P25,Quinton de Kock,South Africa,63,38,7,3,165.79,46,73.02,1,c Soumya b Afif
+T20I_04,P22,Sikandar Raza,Zimbabwe,82,48,5,5,170.83,50,60.98,1,b Little
+T20I_14,P22,Sikandar Raza,Zimbabwe,9,16,1,0,56.25,4,44.44,1,c Babar b Wasim
+T20I_02,P30,Max O'Dowd,Netherlands,23,18,3,1,127.78,18,78.26,1,b Junaid Siddique
+T20I_22,P30,Max O'Dowd,Netherlands,29,31,1,1,93.55,10,34.48,1,c Maharaj b Shamsi

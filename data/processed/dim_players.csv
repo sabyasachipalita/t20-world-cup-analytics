@@ -1,0 +1,31 @@
+player_id,name,team,battingStyle,bowlingStyle,playingRole
+P01,Virat Kohli,India,Right Hand Bat,Right Arm Medium,Top-order Batter
+P02,Suryakumar Yadav,India,Right Hand Bat,Right Arm Medium,Middle-order Batter
+P03,Rohit Sharma,India,Right Hand Bat,Right Arm Offbreak,Opening Batter
+P04,Hardik Pandya,India,Right Hand Bat,Right Arm Fast Medium,Allrounder
+P05,Arshdeep Singh,India,Left Hand Bat,Left Arm Fast Medium,Bowler
+P06,Bhuvneshwar Kumar,India,Right Hand Bat,Right Arm Medium Fast,Bowler
+P07,Jos Buttler,England,Right Hand Bat,,Wicketkeeper Batter
+P08,Alex Hales,England,Right Hand Bat,Right Arm Medium,Opening Batter
+P09,Ben Stokes,England,Left Hand Bat,Right Arm Fast Medium,Allrounder
+P10,Sam Curran,England,Left Hand Bat,Left Arm Medium Fast,Allrounder
+P11,Mark Wood,England,Right Hand Bat,Right Arm Fast,Bowler
+P12,Babar Azam,Pakistan,Right Hand Bat,Right Arm Offbreak,Opening Batter
+P13,Mohammad Rizwan,Pakistan,Right Hand Bat,,Wicketkeeper Batter
+P14,Shan Masood,Pakistan,Left Hand Bat,Right Arm Medium Fast,Top-order Batter
+P15,Shadab Khan,Pakistan,Right Hand Bat,Legbreak,Allrounder
+P16,Shaheen Shah Afridi,Pakistan,Left Hand Bat,Left Arm Fast,Bowler
+P17,Haris Rauf,Pakistan,Right Hand Bat,Right Arm Fast,Bowler
+P18,Glenn Phillips,New Zealand,Right Hand Bat,Right Arm Offbreak,Middle-order Batter
+P19,Devon Conway,New Zealand,Left Hand Bat,Right Arm Medium,Wicketkeeper Batter
+P20,Tim Southee,New Zealand,Right Hand Bat,Right Arm Medium Fast,Bowler
+P21,Trent Boult,New Zealand,Right Hand Bat,Left Arm Fast Medium,Bowler
+P22,Sikandar Raza,Zimbabwe,Right Hand Bat,Right Arm Offbreak,Allrounder
+P23,Wanindu Hasaranga,Sri Lanka,Right Hand Bat,Legbreak,Allrounder
+P24,Anrich Nortje,South Africa,Right Hand Bat,Right Arm Fast,Bowler
+P25,Quinton de Kock,South Africa,Left Hand Bat,,Wicketkeeper Batter
+P26,Rilee Rossouw,South Africa,Left Hand Bat,Right Arm Offbreak,Top-order Batter
+P27,Marcus Stoinis,Australia,Right Hand Bat,Right Arm Medium,Allrounder
+P28,Glenn Maxwell,Australia,Right Hand Bat,Right Arm Offbreak,Allrounder
+P29,Josh Hazlewood,Australia,Left Hand Bat,Right Arm Fast Medium,Bowler
+P30,Max O'Dowd,Netherlands,Right Hand Bat,Right Arm Legbreak,Opening Batter
